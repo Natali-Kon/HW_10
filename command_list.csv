@@ -31,3 +31,13 @@
    31  git log-4
    32  git log -4
    33  history > command_list.csv
+   34  git status
+   35  git add command_list.csv
+   36  git status
+   37  git commit -m "fifth commit"
+   38  git push
+   39  vim .gitignore
+   40  rm command_list.csv
+   41  ls -a
+   42  cat .gitignore
+   43  history > command_list.csv
